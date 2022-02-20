@@ -21,6 +21,9 @@ bubblesort(elements)
 print("Sorted Array is, ")
 print(elements)
 
+plt.plot(elements)
+plt.show()
+
 
 
 
